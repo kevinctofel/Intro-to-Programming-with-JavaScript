@@ -4,7 +4,7 @@ const a = {
   };
   
   function myFunction() {
-    a.firstName = 'Jane'; // property change
+    a.firstName = 'Jane'; // property change allowed
   }
   
   myFunction();
